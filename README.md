@@ -43,6 +43,6 @@ This is a personal portfolio website for **Talebi Assma**, a Project Manager & W
 To run the project locally:
 
 ```bash
-git clone https://github.com/username/Portfolio-Website.git
+git clone https://github.com/Talebi395/Portfolio-Website1
 cd Portfolio-Website
 open index.html
