@@ -17,7 +17,7 @@ This is a personal portfolio website for **Talebi Assma**, a Project Manager & W
 - Available upon request: Phone, Email, Driving License
 
 ## 🚀 Live Demo
-[Talebi Assma ](https://talebiassma.site)
+[Talebi Assma ](https:talebiassma.site)
 
 ## 📥 How to use
 Clone the repo:
