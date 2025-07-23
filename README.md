@@ -1,6 +1,6 @@
 # 🌐 Talebi Assma – Portfolio Website
 
-![Website Banner](https://raw.githubusercontent.com/username/Portfolio-Website/main/banner.png)
+
 
 🔗 **Live Site:** [http://talebiassma.site](http://talebiassma.site)
 
